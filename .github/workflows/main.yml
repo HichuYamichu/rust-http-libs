@@ -1,0 +1,20 @@
+name: Update
+
+on:
+  schedule:
+    - cron: "0 0 * * SUN"
+      
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: update README
+      run: cargo run
+    - name: Commit changed files
+      uses: stefanzweifel/git-auto-commit-action@v2.4.0
+      with:
+        commit_message: Auto update
+        branch: master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
