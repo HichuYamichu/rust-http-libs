@@ -5,12 +5,12 @@ A list of Rust http libs inspired by https://github.com/mingrammer/go-web-framew
 
 |Name|Stars|Issues|Description|
 |:--:|:---:|:--:|:----:|
-|[hyper](https://github.com/hyperium/hyper)|5614|41|An HTTP library for Rust|
-|[reqwest](https://github.com/seanmonstar/reqwest)|2145|99|An easy and powerful Rust HTTP Client|
+|[hyper](https://github.com/hyperium/hyper)|5616|41|An HTTP library for Rust|
+|[reqwest](https://github.com/seanmonstar/reqwest)|2148|99|An easy and powerful Rust HTTP Client|
 |[warp](https://github.com/seanmonstar/warp)|1302|76|A super-easy, composable, web server framework for warp speeds.|
 |[sozu](https://github.com/sozu-proxy/sozu)|975|132|Sōzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It is awesome! Ping us on gitter to know more|
 |[rouille](https://github.com/tomaka/rouille)|526|50|Web framework in Rust|
-|[http](https://github.com/hyperium/http)|472|39|Rust HTTP types|
+|[http](https://github.com/hyperium/http)|473|39|Rust HTTP types|
 |[bloom](https://github.com/valeriansaliou/bloom)|469|3|:cherry_blossom: HTTP REST API caching middleware, to be used between load balancers and REST API workers.|
 |[drill](https://github.com/fcsonline/drill)|450|7|Drill is a HTTP load testing application written in Rust  inspired by Ansible syntax|
 |[simple-http-server](https://github.com/TheWaWaR/simple-http-server)|270|15|Simple http server in Rust (Windows/Mac/Linux)|
@@ -28,7 +28,7 @@ A list of Rust http libs inspired by https://github.com/mingrammer/go-web-framew
 |[hyperlocal](https://github.com/softprops/hyperlocal)|75|6|🔌 ✨rustlang hyper bindings for local unix domain sockets|
 |[see](https://github.com/wyhaya/see)|74|1|Static HTTP file server|
 |[sincere](https://github.com/danclive/sincere)|69|3|Sincere is a micro web framework for Rust(stable) based on hyper and multithreading|
-|[ureq](https://github.com/algesten/ureq)|64|3|Minimal request library in rust.|
+|[ureq](https://github.com/algesten/ureq)|65|3|Minimal request library in rust.|
 |[hors](https://github.com/WindSoilder/hors)|63|0|instant coding answers via the command line (howdoi in rust)|
 |[zap](https://github.com/oltdaniel/zap)|50|1|:zap: fast http framework for rust|
 |[syntect_server](https://github.com/sourcegraph/syntect_server)|50|4|HTTP code syntax highlighting server written in Rust.|
@@ -36,4 +36,4 @@ A list of Rust http libs inspired by https://github.com/mingrammer/go-web-framew
 |[headers](https://github.com/hyperium/headers)|46|16|Typed HTTP Headers from hyper|
 |[reroute](https://github.com/gsquire/reroute)|43|3|A router for Rust's hyper framework using regular expressions|
 
-Last Automatic Update: 2019-12-14 13:27:50.265534100 UTC
+Last Automatic Update: 2019-12-15 00:09:11.729427753 UTC
