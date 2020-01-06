@@ -36,4 +36,4 @@ A list of Rust http libs inspired by https://github.com/mingrammer/go-web-framew
 |[reroute](https://github.com/gsquire/reroute)|42|3|A router for Rust's hyper framework using regular expressions|
 |[maman](https://github.com/spk/maman)|32|0|Rust Web Crawler saving pages on Redis|
 
-Last Automatic Update: 2020-01-05 00:07:25.912130848 UTCUpdate: 2019-12-22 00:04:47.860195233 UTC
+Last Automatic Update: 2020-01-05 00:07:25.912130848 UTC
